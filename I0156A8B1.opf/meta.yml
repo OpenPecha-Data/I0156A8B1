@@ -1,0 +1,24 @@
+id: I0156A8B1
+initial_creation_type: ebook
+source_metadata:
+  id: BOK-023
+  title: ༄༅། །སྡོམ་གསུམ་འགྲེལ་པ།
+  author: མཛད་པ་པོ། ཀརྨ་ངེས་དོན་བསྟན་རྒྱས།
+  authors: &id001
+  - མཛད་པ་པོ། ཀརྨ་ངེས་དོན་བསྟན་རྒྱས།
+  sku: BOK-023
+  cover: BOK-023.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །སྡོམ་གསུམ་འགྲེལ་པ།
+  authors: *id001
+  sku: BOK-023
+  cover: BOK-023.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
